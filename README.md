@@ -26,5 +26,8 @@ Navigate to the base folder(this is root-config), React-App, vue-app and angular
   ```js
   $ npm start
   ```
+If you have "Syntax Error: Error: No ESLint configuration found in" when you tried to npm run serve
+you can see this link:
+https://stackoverflow.com/questions/66215112/syntax-error-error-no-eslint-configuration-found-in-when-i-tried-to-npm-run
 
 In the browser open the application at http://localhost:9000
