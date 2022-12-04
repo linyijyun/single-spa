@@ -30,4 +30,12 @@ If you have "Syntax Error: Error: No ESLint configuration found in" when you tri
 you can see this link:
 https://stackoverflow.com/questions/66215112/syntax-error-error-no-eslint-configuration-found-in-when-i-tried-to-npm-run
 
+```js
+$ npm install eslint -g -D
+```
+```js
+$ eslint --init
+```
+
+
 In the browser open the application at http://localhost:9000
