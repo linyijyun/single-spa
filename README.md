@@ -20,12 +20,6 @@ Navigate to the base folder(this is root-config), React-App, vue-app and angular
   ```js
   $ npm run serve
   ```
-
-## Final Step
-- Navigate to the base folder and run the below command
-  ```js
-  $ npm start
-  ```
 If you have "Syntax Error: Error: No ESLint configuration found in" when you tried to npm run serve
 you can see this link:
 https://stackoverflow.com/questions/66215112/syntax-error-error-no-eslint-configuration-found-in-when-i-tried-to-npm-run
@@ -37,5 +31,10 @@ $ npm install eslint -g -D
 $ eslint --init
 ```
 
+## Final Step
+- Navigate to the base folder and run the below command
+  ```js
+  $ npm start
+  ```
 
 In the browser open the application at http://localhost:9000
