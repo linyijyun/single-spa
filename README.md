@@ -1,6 +1,7 @@
 # single-spa
 This is an example of one Vue and one React and one Angular microfrontend , and teaching to create root config application
 
-Install the npm packages
-
+# Install the npm packages
+Navigate to the root-config, react-app, and angular-app folders and run the command
 $ npm install
+
